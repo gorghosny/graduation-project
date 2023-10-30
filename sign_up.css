@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5F9DB;
+}
+
+.container {
+    background-color: #9ED2BE;
+    max-width: 900px;
+    padding: 30px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.form-label{
+    color: #3A4D39;
+    font-size: 1.3rem;
+}
+
+button{
+    width: 100%;
+}
+
+.login{
+    width: 100%;
+    text-align: center;    
+}
+
+a{
+    color: #3A4D39;
+    font-style: italic;
+}
+.Remember{
+    font-style: italic;
+}
+h1{
+    color: #3A4D39;
+}
